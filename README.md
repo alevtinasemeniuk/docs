@@ -1,6 +1,6 @@
 # Test documentation 
 
-During my work with the web application [demoshopping.ru](https://demoshopping.ru/) in this section, I wrote test documentation (checklists and test cases) and conducted testing for the Registration, Authentication, and Product Catalog modules.  
+During my work with the web application [demoshopping.ru](https://demoshopping.ru/) in this section, I wrote test documentation (checklists and test cases) and conducted testing for the Registration, Authorization, and Product Catalog modules.  
 
 Testing was conducted by going through prepared checklists and executing test runs in the QASE test management system. Identified defects were documented by me in bug reports and registered in the YouTrack system.
 
